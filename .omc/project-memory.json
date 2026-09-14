@@ -1,0 +1,68 @@
+{
+  "version": "1.0.0",
+  "lastScanned": 1789284093747,
+  "projectRoot": "/Users/choejunho/Downloads/dev/260807_ebook/output/landing-vercel",
+  "techStack": {
+    "languages": [],
+    "frameworks": [],
+    "packageManager": null,
+    "runtime": null
+  },
+  "build": {
+    "buildCommand": null,
+    "testCommand": null,
+    "lintCommand": null,
+    "devCommand": null,
+    "scripts": {}
+  },
+  "conventions": {
+    "namingStyle": null,
+    "importStyle": null,
+    "testPattern": null,
+    "fileOrganization": null
+  },
+  "structure": {
+    "isMonorepo": false,
+    "workspaces": [],
+    "mainDirectories": [],
+    "gitBranches": null
+  },
+  "customNotes": [],
+  "directoryMap": {
+    "images": {
+      "path": "images",
+      "purpose": null,
+      "fileCount": 6,
+      "lastAccessed": 1789284093726,
+      "keyFiles": [
+        "s02_pain_01_placeholder_v2.png",
+        "s02_pain_02_placeholder_v2.png",
+        "s02_pain_03_placeholder_v2.png",
+        "s02_pain_04_placeholder_v2.png",
+        "s02_pain_05_placeholder_v2.png"
+      ]
+    },
+    "new-images": {
+      "path": "new-images",
+      "purpose": null,
+      "fileCount": 0,
+      "lastAccessed": 1789284093726,
+      "keyFiles": []
+    }
+  },
+  "hotPaths": [
+    {
+      "path": "product.html",
+      "accessCount": 5,
+      "lastAccessed": 1789285195808,
+      "type": "file"
+    },
+    {
+      "path": "index-v3.html",
+      "accessCount": 2,
+      "lastAccessed": 1789284188670,
+      "type": "file"
+    }
+  ],
+  "userDirectives": []
+}
