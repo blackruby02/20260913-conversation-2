@@ -1,0 +1,7 @@
+{
+  "tool_name": "Bash",
+  "tool_input_preview": "{\"command\":\"ls -la /Users/choejunho/Downloads/dev/260807_ebook/output/landing-vercel/images/ 2>/dev/null && echo \\\"---루트 이미지들---\\\" && ls /Users/choejunho/Downloads/dev/260807_ebook/output/landing-verc...",
+  "error": "Exit code 1\ntotal 45840\ndrwxr-xr-x@ 21 choejunho  staff      672 Sep 20 20:19 .\ndrwxr-xr-x@ 17 choejunho  staff      544 Sep 20 20:13 ..\n-rw-r--r--@  1 choejunho  staff     6148 Sep 20 20:18 .DS_Store\n-rw-r--r--@  1 choejunho  staff  1300061 Sep 20 15:38 book.png\n-rw-r--r--@  1 choejunho  staff   257296 Sep 13 15:55 s02_pain_04_placeholder_v2.png\n-rw-r--r--@  1 choejunho  staff  1904197 Sep 13 15:59 s02_pain_05_placeholder_v2.png\n-rw-r--r--@  1 choejunho  staff  1983452 Sep 14 22:56 s02_pain_06_...",
+  "timestamp": "2026-09-20T11:28:15.600Z",
+  "retry_count": 1
+}
